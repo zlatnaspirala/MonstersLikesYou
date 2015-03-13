@@ -1,0 +1,72 @@
+body {
+	font-family: Helvetica, Arial, "sans serif";
+	font-size: 12px;
+}
+
+video, #info, #description {
+	display: none;
+}
+
+#video-demo {
+	display: none;
+	position: absolute;
+	top: 0px;
+	left: 10px;
+}
+
+#canvas-source {
+	display: none;
+	<!-- position: absolute; -->
+	top: 0px;
+	left: 10px;
+}
+
+#canvas-blended {
+	display: none;
+	position: absolute;
+	top: 407px;
+	left: 500px;
+	width: 150px;
+	height: 113px;
+}
+
+#xylo {
+	display:none;
+	position: absolute;
+	top: 40px;
+	left: 640px;
+	margin: 0px;
+	padding: 0px;
+	border: 1px solid yellow;
+}
+#xylo #back {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index:0;
+}
+#xylo #front {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index:1;
+	width: 640px;
+	margin: 0px;
+	padding: 0px;
+}
+#xylo #back img, #xylo #front img {
+	margin: 0px;
+	padding: 0px;
+}
+#xylo #front img {
+	position: absolute;
+	display: none;
+}
+#xylo #note0 { top: 0px; }
+#xylo #note1 { top: 82px; }
+#xylo #note2 { top: 159px; }
+#xylo #note3 { top: 238px; }
+#xylo #note4 { top: 313px; }
+#xylo #note5 { top: 390px; }
+#xylo #note6 { top: 468px; }
+#xylo #note7 { top: 544px; }

@@ -1,0 +1,231 @@
+# Blender MTL File: 'None'
+# Material Count: 21
+newmtl Body_SydBodyTexNoGen.jpg
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SydBodyTexNoGen.jpg
+
+
+newmtl EyeBallLeft_SydEyeBlueNF.jpg.003
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SydEyeBlueNF.jpg
+
+
+newmtl EyeBallRight_SydEyeBlueNF.jpg
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SydEyeBlueNF.jpg
+
+
+newmtl EyelashesBottom
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+
+newmtl EyelashesTop
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+
+newmtl EyetransLeft
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+
+newmtl EyetransRight
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+
+newmtl Fingernails_SydBodyTexNoGen.jpg.001
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SydBodyTexNoGen.jpg
+
+
+newmtl Head_SydneyHeadTex.jpg
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SydneyHeadTex.jpg
+
+
+newmtl InnerMouth_SydneyHeadTex.jpg.003
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SydneyHeadTex.jpg
+
+
+newmtl IrisLeft_SydEyeBlueNF.jpg.004
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SydEyeBlueNF.jpg
+
+
+newmtl IrisRight_SydEyeBlueNF.jpg.001
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SydEyeBlueNF.jpg
+
+
+newmtl Lips_SydneyHeadTex.jpg.001
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SydneyHeadTex.jpg
+
+
+newmtl Material_armadura_diffuse.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd PolySphere_1.png
+map_Ns PolySphere_3.png
+map_Ks PolySphere_3.png
+map_Bump PolySphere_2.png
+
+
+newmtl Preview
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.639978 0.639978 0.639978
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+
+newmtl PupilLeft_SydEyeBlueNF.jpg.005
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SydEyeBlueNF.jpg
+
+
+newmtl PupilRight_SydEyeBlueNF.jpg.002
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SydEyeBlueNF.jpg
+
+
+newmtl Teeth_Sydneyteeth.jpg
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Sydneyteeth.jpg
+
+
+newmtl Toenails_SydBodyTexNoGen.jpg.002
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SydBodyTexNoGen.jpg
+
+
+newmtl Tongue_SydneyHeadTex.jpg.002
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SydneyHeadTex.jpg
+
+
+newmtl olho_armadura_diffuse.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd PolySphere_1.png
+
+
